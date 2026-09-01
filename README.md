@@ -36,7 +36,7 @@ passions:
   - "Exploring new frameworks & tools"
   - "Turning ideas into impactful digital products"
 
-fun_fact: "Studied Marketing, but somehow ended up falling in love with code 💻💜
+fun_fact: "Studied Marketing, but somehow ended up falling in love with code". 💻💜
 ```
 
 <div align="center">
