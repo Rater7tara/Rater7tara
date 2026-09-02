@@ -106,8 +106,25 @@ fun_fact: "Studied Marketing, but somehow ended up falling in love with code". ğ
 
 <div align="center">
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akternowshin-hb&hide_border=true&background=0D1117&ring=7B2FF7&fire=A855F7&currStreakLabel=B084F5&sideLabels=C4B5FD&dates=8B5CF6&currStreakNum=ffffff&sideNums=ffffff" width="80%"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,50:7B2FF7,100:C471ED&height=4" width="100%"/>
+</div>
+
+<h2 align="center">ğŸ Contribution Snake</h2>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,50:7B2FF7,100:C471ED&height=4" width="100%"/>
+</div>
+
+
 
 
 
